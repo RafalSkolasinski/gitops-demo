@@ -3,7 +3,7 @@
     "apiVersion": "machinelearning.seldon.io/v1alpha2",
     "metadata": {
         "name": "new-iris",
-        "namespace": "new-gitops",
+        "namespace": "gitops-namespace",
         "creationTimestamp": null,
         "labels": {
             "fluentd": "true"
